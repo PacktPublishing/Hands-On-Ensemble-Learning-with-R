@@ -27,10 +27,10 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-if (test expression)
-{
-  Statement upon condition is true
-}
+set.seed(1234)
+X <- mvrnorm(n = 200, mu = c(0, 0, 0, 0, 0),
+ Sigma = matrix(c(
+ 1, .9999, .99, .99, .10,
 ```
 
 **Following is what you need for this book:**
@@ -58,7 +58,7 @@ is a lead statistician and manager at the Global Data Insights & An alytics divi
 
 
 
-## Other books by the authors
+## Other books by the author
 * [R Statistical Application Development by Example Beginner's Guide](https://www.packtpub.com/big-data-and-business-intelligence/r-statistical-application-development-example-beginners-guide)
 * [Statistical Application Development with R and Python - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/statistical-application-development-r-and-python-second-edition)
 
