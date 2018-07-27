@@ -51,7 +51,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * R Deep Learning Cookbook [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781787121089) [[Amazon]](https://www.amazon.com/dp/1787121089)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Prabhanjan Narayanachar Tattar**
 is a lead statistician and manager at the Global Data Insights & An alytics division of Ford Motor Company, Chennai. He received the IBS(IR)-GK Shukla Young Biometrician Award (2005) and Dr. U.S. Nair Award for Young Statistician (2007). He held SRF of CSIR-UGC during his PhD. He has authored books such as Statistical Application Development with R and Python, 2nd Edition, Packt; Practical Data Science Cookbook, 2nd Edition, Packt; and A Course in Statistics with R, Wiley. He has created many R packages.
 
