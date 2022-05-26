@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B09012?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Hands-On Ensemble Learning with R
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/ensemble-machine-learning-using-r"><img src="https://www.packtpub.com/sites/default/files/B09012_MockupCoverNew.png" alt="Hands-On Ensemble Learning with R" height="256px" align="right"></a>
